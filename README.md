@@ -1,4 +1,4 @@
-# DATA DIRI
+# BIODATA DIRI
 
 ## Nama : Irvin Hasiba Mayori Sudianto
 ## TTL  : Garut, 03-12-1999
